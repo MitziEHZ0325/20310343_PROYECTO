@@ -1,0 +1,35 @@
+{
+  "bajo_peso": {
+    "descripcion": "Tienes Bajo Peso, debes aumentar",
+    "ejercicio": "proteina diaria (aves, carne, pescado, huevo, lacteos, legumbres o proteina vegetal, frutos secos…), entre 25-30 gr \nuna buena racion de hidratos de carbono complejos (avena, arroz, cereales, pan, pasta, legumbres, patata)\nPriorizar siempre las grasas mono insaturadas como aceite de oliva, aguacate, frutos secos y poliinsaturadas (nueces, semillas, pescado azul)\nManten una adecuada hidratacion diaria"
+  },
+  "normal": {
+    "descripcion": "Tu IMC es saludable, mantente asi",
+    "ejercicio": "Se recomienda las frutas, las verduras, los cereales integrales, la leche y los productos lacteos sin grasa o bajos en grasa. Incluye una variedad de alimentos con proteinas como mariscos, carnes magras, huevos, legumbres (frijoles y guisantes), productos de soya, nueces y semillas."
+  },
+  "sobrepeso": {
+    "descripcion": "Tu peso es algo elevado para alguien de tu estatura, debes bajar",
+    "ejercicio": "Se recomienda consumir menos alimentos y bebidas que contienen carbohidratos refinados, azucares annadidos y sal (sodio), ademas limitar los alimentos con grasas saturadas y grasas trans, como las que se encuentran en los postres y las comidas fritas"
+  },
+  "obesidad": {
+    "descripcion": "Plan nutricional para controlar la obesidad",
+    "ejercicio": "Se recomienda abundantes frutas y verduras crudas o cocidas (al menos cinco unidades al día), lacteos desnatados, cereales integrales y beber al menos 2L de agua natural al dia, ademas disminuir poco a poco el consumo de sal, grasas y alcohol."
+  },
+  "diabetes": {
+    "descripcion": "Plan nutricional para controlar la diabetes",
+    "ejercicio": "Se recomienda una dieta baja en azucares y carbohidratos, y ejercicio regular. Consulte a un medico para obtener un plan personalizado."
+  },
+  "hipotiroidismo": {
+    "descripcion": "Plan nutricional para personas con hipotiroidismo",
+    "ejercicio": "Se recomienda potenciar alimentos que aportan omega 3, antioxidantes, yodo, selenio, zinc y vit D. Evitar con el consumo de algas, ya que su contenido en yodo es tan elevado que podría alterar la glándula tiroides. Si se consume soja o productos que la contengan, es recomendable dejar pasar 4 horas desde la toma de la medicación y la ingesta de soja. Consulte a un medico para obtener un plan personalizado."
+  },
+  "hipertiroidismo": {
+    "descripcion": "Plan nutricional para personas con hipertiroidismo",
+    "ejercicio": "Se recomienda consumir alimentos que disminuyen la absorción de yodo.  Consulte a un medico para obtener un plan personalizado."
+  },
+  "hipertension": {
+    "descripcion": "Plan nutricional para controlar la presion",
+    "ejercicio": "Se recomienda consumir muchas verduras, frutas y productos lacteos sin grasa o bajos en grasa, incluir granos enteros, legumbres, semillas, nueces y aceites vegetales; comer pescado, aves y carnes magras. Reducir la sal, las carnes rojas, los dulces y las bebidas azucaradas y las bebidas alcoholicas. Debe hacer por lo menos 30 minutos de ejercicio de intensidad moderada casi todos los dias de la semana. Consulte a un medico para obtener un plan personalizado."
+  }
+}
+
